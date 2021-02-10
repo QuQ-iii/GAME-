@@ -13,7 +13,7 @@ var monkeyCount = 2;
 var capCount = 0;
 var moneyCount = 0;
 var levelCount = 1;
-var gameState = "LV 1";
+var gameState = "0";
 var cap1, cap1IMG;
 var shooter1, shooter1IMG;
 var blueBoxIMG, blueBox, redBox, redBoxIMG;
